@@ -2,7 +2,7 @@
     {
         "Author": "Lichie",
         "Name": "LMeter",
-        "Description": "Plugin to display ACT combat log data.",
+        "Description": "用于显示 ACT 战斗日志数据的插件",
         "InternalName": "LMeter",
         "AssemblyVersion": "0.4.3.2",
         "TestingAssemblyVersion": "0.4.3.2",
@@ -20,7 +20,7 @@
     },
     {
         "Author": "Drahsid",
-        "Name": "HybridCamera(移动操作类型)",
+        "Name": "HybridCamera",
         "Description": "在标准移动操作模式下使用传统模式",
         "InternalName": "HybridCamera",
         "AssemblyVersion": "1.8",
