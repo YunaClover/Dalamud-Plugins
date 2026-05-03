@@ -18,24 +18,5 @@
     "DownloadLinkTesting": "https://github.com/YunaClover/LMeter/releases/download/0.4.4.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/YunaClover/LMeter/releases/download/0.4.4.4/latest.zip",
     "IconUrl": "https://github.com/YunaClover/LMeterCN/blob/main/LMeter/Media/Images/icon.png"
-  },
-    {
-        "Author": "Drahsid",
-        "Name": "HybridCamera",
-        "Description": "在标准移动操作模式下使用传统模式",
-        "InternalName": "HybridCamera",
-        "AssemblyVersion": "1.8",
-        "TestingAssemblyVersion": "1.8",
-        "RepoUrl": "https://github.com/Drahsid/HybridCamera",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 14,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "DownloadLinkInstall": "https://github.com/YunaClover/HybridCamera/releases/download/1.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/YunaClover/HybridCamera/releases/download/1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/YunaClover/HybridCamera/releases/download/1.0/latest.zip",
-        "IconUrl": "https://github.com/YunaClover/HybridCamera/blob/master/HybridCamera/images/icon.png"
-  }  
+  }
 ]
