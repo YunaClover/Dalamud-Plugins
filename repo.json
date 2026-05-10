@@ -25,9 +25,9 @@
         "Name": "FF Logs Viewer(CN)",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "国服7.5",
+        "Changelog": "更新7.5默认布局",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.4.2.0",
+        "AssemblyVersion": "2.4.3.0",
         "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -39,11 +39,11 @@
             "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
             "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
         ],
-        "DownloadLinkInstall": "https://github.com/YunaClover/FFLogsViewer/releases/download/2.4.2.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/YunaClover/FFLogsViewer/releases/download/2.4.3.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/YunaClover/FFLogsViewer/releases/download/2.4.2.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/YunaClover/FFLogsViewer/releases/download/2.4.2.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/YunaClover/FFLogsViewer/releases/download/2.4.3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/YunaClover/FFLogsViewer/releases/download/2.4.3.0/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "0"
     }
