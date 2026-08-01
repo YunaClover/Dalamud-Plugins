@@ -46,6 +46,27 @@
         "DownloadLinkUpdate": "https://github.com/YunaClover/FFLogsViewer/releases/download/2.4.3.0/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "0"
-    }
+    },
+    {
+    "Author": "Yuna",
+    "Name": "艾欧泽亚售楼中心",
+    "Punchline": "游戏内显示房屋抽取信息",
+    "Description": "艾欧泽亚售楼中心",
+    "InternalName": "FFhouse",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/YunaClover/FFhouse",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "DownloadLinkInstall": "https://github.com/YunaClover/FFhouse/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/YunaClover/FFhouse/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/YunaClover/FFhouse/releases/download/1.0.0.0/latest.zip",
+    
+  }
     
 ]
